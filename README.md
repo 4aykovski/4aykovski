@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm a russian student from Novosibirsk.
+- I'm looking for a first job and coding something!
+- Glad to see u in my GitHub profile!
+  
 <!--
 **4aykovski/4aykovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
